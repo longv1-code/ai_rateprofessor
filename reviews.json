@@ -1,0 +1,124 @@
+{
+    "reviews": [
+      {
+        "professor": "Dr. John Smith",
+        "subject": "Data Structures",
+        "stars": 5,
+        "review": "Dr. Smith explains complex topics very clearly and is always available for extra help."
+      },
+      {
+        "professor": "Dr. Emily Davis",
+        "subject": "Thermodynamics",
+        "stars": 4,
+        "review": "Knowledgeable and engaging, but sometimes hard to follow during lectures."
+      },
+      {
+        "professor": "Dr. Michael Johnson",
+        "subject": "Calculus II",
+        "stars": 3,
+        "review": "Good professor, but grading is very tough and the exams are difficult."
+      },
+      {
+        "professor": "Dr. Linda Martinez",
+        "subject": "Introduction to Psychology",
+        "stars": 4,
+        "review": "Her lectures are interesting and she encourages student participation."
+      },
+      {
+        "professor": "Dr. Robert Lee",
+        "subject": "Physics I",
+        "stars": 2,
+        "review": "The class is very challenging and the professor is not very approachable."
+      },
+      {
+        "professor": "Dr. Jennifer Wilson",
+        "subject": "Organic Chemistry",
+        "stars": 5,
+        "review": "One of the best professors I've ever had. She makes difficult concepts easy to understand."
+      },
+      {
+        "professor": "Dr. Richard Clark",
+        "subject": "World History",
+        "stars": 3,
+        "review": "The content is interesting, but his lectures can be a bit dry at times."
+      },
+      {
+        "professor": "Dr. Susan Brown",
+        "subject": "Microeconomics",
+        "stars": 4,
+        "review": "Great professor! She really knows how to make the subject engaging."
+      },
+      {
+        "professor": "Dr. Mark Taylor",
+        "subject": "Linear Algebra",
+        "stars": 2,
+        "review": "Difficult to follow his lectures and his explanations are often unclear."
+      },
+      {
+        "professor": "Dr. Jessica Walker",
+        "subject": "Sociology",
+        "stars": 5,
+        "review": "Dr. Walker is very passionate about the subject and it shows in her teaching."
+      },
+      {
+        "professor": "Dr. David Harris",
+        "subject": "Introduction to Philosophy",
+        "stars": 3,
+        "review": "He is knowledgeable, but his grading is tough and participation is mandatory."
+      },
+      {
+        "professor": "Dr. Karen White",
+        "subject": "Statistics",
+        "stars": 4,
+        "review": "Explains the material well and is always willing to help students outside of class."
+      },
+      {
+        "professor": "Dr. Paul Lewis",
+        "subject": "Ethics",
+        "stars": 5,
+        "review": "Engaging lectures and fair exams. Really makes you think critically."
+      },
+      {
+        "professor": "Dr. Mary Allen",
+        "subject": "Genetics",
+        "stars": 4,
+        "review": "Very organized and clear, but the exams are quite challenging."
+      },
+      {
+        "professor": "Dr. Steven Young",
+        "subject": "Political Science",
+        "stars": 3,
+        "review": "Lectures can be dull, but the content is important and relevant."
+      },
+      {
+        "professor": "Dr. Patricia King",
+        "subject": "Macroeconomics",
+        "stars": 4,
+        "review": "She makes difficult topics understandable and is very approachable."
+      },
+      {
+        "professor": "Dr. George Wright",
+        "subject": "Environmental Science",
+        "stars": 5,
+        "review": "Very passionate about the subject and really cares about his students."
+      },
+      {
+        "professor": "Dr. Barbara Scott",
+        "subject": "Introduction to Literature",
+        "stars": 3,
+        "review": "Her feedback is helpful, but the readings can be overwhelming."
+      },
+      {
+        "professor": "Dr. Thomas Hill",
+        "subject": "Discrete Mathematics",
+        "stars": 4,
+        "review": "Great professor with clear explanations. The assignments are tough but fair."
+      },
+      {
+        "professor": "Dr. Nancy Adams",
+        "subject": "Biochemistry",
+        "stars": 5,
+        "review": "One of the best! She really knows her stuff and is great at explaining complex concepts."
+      }
+    ]
+  }
